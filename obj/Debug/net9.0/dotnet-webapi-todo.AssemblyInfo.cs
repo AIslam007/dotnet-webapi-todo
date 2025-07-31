@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-webapi-todo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c01e6bfcd9c5a105b9e4172929897769a4f230")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-webapi-todo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-webapi-todo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
